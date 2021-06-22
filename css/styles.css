@@ -1,0 +1,86 @@
+body{font-family: "Montserrat-Black",sans-serif;
+
+
+}
+h1,h2,h3{
+  font-family: "Montserrat-Black",sans-serif;
+  font-weight: bold;
+
+}
+
+#header{
+  padding: 20px 0 20px 0;
+}
+.big-header{
+  font-family: "Montserrat-Black",sans-serif;
+  font-weight: bold;
+  line-height: 3rem;
+  font-size: 4rem;
+  color: #fff;
+  padding: 20px 0 20px 0;
+}
+
+.menu{
+  background-color:#053742;
+}
+
+#header{
+  padding-bottom: 200px;
+  background-color: #66bfbf;
+}
+.jumbotron{
+  text-align: center;
+  margin-top: 50px 0  30px  ;
+  background-color: #39A2DB;
+
+}
+.jumbotron-text1{
+  color: #fff;
+  font-family: "Montserrat",sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 2rem;
+padding: 20px
+
+
+
+}
+.jumbotron-text2{
+  color: #fff;
+  font-family: "Montserrat",sans-serif;
+
+  font-size: 1rem;
+  line-height: 1.5rem
+}
+
+#footer{
+  padding: 7% 15%;
+text-align: center;
+color: grey;
+font-family: "Montserrat-Black",sans-serif;
+background-color: #A2DBFA;
+font-size: 0.8rem;
+
+}
+#Gallery{
+  background-color: #39A2DB;
+  text-align: center;
+
+
+}
+.carousel-img{
+  width: 70%;
+  margin: 20px;
+  padding-bottom: 50px;
+
+
+}
+@media (max-width:1028px) {
+  .big-header{  font-size: 3rem;
+    line-height: 2rem;
+      padding: 80px 0 20px 0;
+
+
+  }
+
+}
